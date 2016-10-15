@@ -62,6 +62,13 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
+        String hasilc = "\n";
+
+        int startlen = hasil.length();
+        if (cbTT.isChecked()) hasilc += cbTT.getText() + "\n";
+        if (cbSE.isChecked()) hasilc += cbSE.getText() + "\n";
+        if (cbJE.isChecked()) hasilc += cbJE.getText() + "\n";
+        if (cbJA.isChecked()) hasilc += cbJA.getText() + "\n";
 
         String nama = etNama.getText().toString();
         tvHasil.setText(("Selamat bergabung " + nama) + ("\n Kelas " + spKelas.getSelectedItem().toString()) + ("\n Jenis kelamin " + hasil) + ("\n Pengalaman anda adalah " + hasilc));
