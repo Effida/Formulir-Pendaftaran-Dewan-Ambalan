@@ -7,9 +7,9 @@ Cara penggunaannya adalah isikan data dengan benar, lalu tekan tombol OK.
 
 
 Screenshoot:
-![Screenshoot1](https://effidamaulidiyah.wordpress.com/2016/10/15/gambar/#jp-carousel-12)
-![Screenshoot2](https://effidamaulidiyah.wordpress.com/2016/10/15/gambar/#jp-carousel-11)
-![Screenshoot3](https://effidamaulidiyah.wordpress.com/2016/10/15/gambar/#jp-carousel-13)
+![Screenshoot1](https://effidamaulidiyah.files.wordpress.com/2016/10/whatsapp-image-2016-10-15-at-18-41-50.jpeg?w=370&h=&crop=1)
+![Screenshoot2](https://effidamaulidiyah.files.wordpress.com/2016/10/whatsapp-image-2016-10-15-at-18-41-49.jpeg?w=370&h=&crop=1)
+![Screenshoot3](https://effidamaulidiyah.files.wordpress.com/2016/10/whatsapp-image-2016-10-15-at-18-41-53.jpeg?w=370&h=&crop=1)
 
 Link file apk :
 https://drive.google.com/file/d/0B4R7l2YkILNQWmFCcGthRzRWY2s/view?usp=sharing
